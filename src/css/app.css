@@ -1,0 +1,13 @@
+@import './home.css';
+@import './menu.css';
+@import './technoadd.css';
+@import './technolist.css';
+@import './technoitem.css';
+
+* {
+    margin: 0;
+    padding: 0;
+    line-height: 40px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
